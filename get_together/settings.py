@@ -245,3 +245,7 @@ except:
     print("WARNING: You should create a local_settings.py to store local and secret data.")
 
 
+
+# Configure Django App for Heroku.
+import django_heroku
+django_heroku.settings(locals())
