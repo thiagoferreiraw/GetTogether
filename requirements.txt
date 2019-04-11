@@ -1,6 +1,7 @@
 certifi==2017.11.5
 chardet==3.0.4
 click==6.7
+coverage==4.5.3
 decorator==4.2.1
 defusedxml==0.5.0
 dj-database-url==0.4.2
@@ -11,7 +12,7 @@ django-imagekit==4.0.2
 django-imagekit-cropper==1.16
 django-js-asset==1.0.0
 django-mptt==0.9.0
-https://github.com/GetTogetherComm/django-recurrence/releases/download/1.5.0/django-recurrence_1.5.0.tar.gz
+django-recurrence==1.5.0
 django-settings-export==1.2.1
 djangorestframework==3.7.7
 future==0.16.0
@@ -25,6 +26,7 @@ oauthlib==2.0.6
 pbr==4.0.4
 pilkit==2.0
 Pillow==5.0.0
+psycopg2==2.8.1
 PyJWT==1.5.3
 python-dateutil==2.7.2
 python3-openid==3.1.0
